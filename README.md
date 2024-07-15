@@ -1,8 +1,9 @@
-<h1 align="center">IEEEXtreme 14.0 Solutions</h1>
 
 <p align="center">
-  <img src="https://path-to-your-image/ieeextreme-14.png" alt="IEEEXtreme 14.0 banner">
+  <img src="Assets/ieeextreme-14.png" alt="IEEEXtreme 17.0 2023 banner">
 </p>
+
+<h1 align="center">IEEEXtreme 14.0 Solutions</h1>
 
 This repository contains my solutions to problems from the IEEEXtreme 14.0 programming competition. Each folder corresponds to a specific problem and includes both the problem statement (PDF) and my solution.
 
