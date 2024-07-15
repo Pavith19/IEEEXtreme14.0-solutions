@@ -1,6 +1,10 @@
+![GitHub top language](https://img.shields.io/github/languages/top/Pavith19/IEEEXtreme17.0-solutions?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/IEEEXtreme17.0-solutions?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/Pavith19/IEEEXtreme17.0-solutions.svg?cache=remove)
+
 
 <p align="center">
-  <img src="Assets/ieee14.png" height=300 width=600 alt="IEEEXtreme 14.0 banner">
+  <img src="Assets/ieee14.png" height=300 width=580 alt="IEEEXtreme 14.0 banner">
 </p>
 
 <h1 align="center">IEEEXtreme 14.0 Solutions</h1>
