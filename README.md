@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Assets/ieee14.png" alt="IEEEXtreme 14.0 banner">
+  <img src="Assets/ieee14.png" height=50 width=50 alt="IEEEXtreme 14.0 banner">
 </p>
 
 <h1 align="center">IEEEXtreme 14.0 Solutions</h1>
