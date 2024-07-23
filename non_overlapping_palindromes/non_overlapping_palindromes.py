@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 def longestPalSubstr(string): 
     maxLength = 1
     start = 0
