@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 Nof_hideouts = int(input())
 hides = input().split()
 
