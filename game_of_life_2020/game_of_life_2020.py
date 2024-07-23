@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 import copy
 # update the table according to its neighbors
 def update(table):
