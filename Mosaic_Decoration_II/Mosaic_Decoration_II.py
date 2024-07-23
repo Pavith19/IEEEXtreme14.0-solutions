@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 import math 
 inp = list(map(int,input().split()))
 b_width = inp[0]
