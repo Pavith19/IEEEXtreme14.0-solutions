@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 N, K = input().split()
 
 cards = ["2","3","4","5","6","7","8","9","X","J","Q","K","A"]
