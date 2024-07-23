@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 t = int(input())
 for _ in range(t):
     n = int(input())
