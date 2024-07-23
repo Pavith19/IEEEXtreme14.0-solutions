@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 N = int(input())
 Stones = list(map(int,input().split()))
 Q = int(input())
