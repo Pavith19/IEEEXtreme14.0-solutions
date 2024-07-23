@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 N, M =  list(map(int,input().split()))
 coin_comb = [["Zulian","Razzashi","Hakkari"],
              ["Sandfury","Skullsplitter","Bloodscalp"],
